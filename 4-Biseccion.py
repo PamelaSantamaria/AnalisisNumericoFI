@@ -15,3 +15,6 @@ ax.tick_params(axis='x', colors='red')
 ax.tick_params(axis='y', colors='red')
 ax.spines['bottom'].set_position(('data',0))
 plt.show()
+
+
+pamelukis
